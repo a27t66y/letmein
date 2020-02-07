@@ -22,17 +22,15 @@ https://github.com/eycorsican/kitsunebi-android/releases/download/v0.9.2/Kitsune
  
 3. Windows
 
-1 下载两个客户端文件：
-
-https://github.com/2dust/v2rayN/releases/download/3.5/v2rayN-Core.zip
+下载客户端
 
 https://github.com/2dust/v2rayN/releases/download/3.5/v2rayN.zip
 
-2 解压后放在一个文件夹里，双击运行v2rayN.exe
+解压后双击运行v2rayN.exe
 
 左下角任务栏找到图标，右键点击，选择从剪贴板导入URL，或扫描屏幕上的二维码，添加账号。
  
-3 任务栏找到 V2RayN 图标并鼠标右键，然后选择：启动系统代理
+任务栏找到 V2RayN 图标并鼠标右键，然后选择：启动系统代理
 
 系统代理模式：PAC 模式
 
