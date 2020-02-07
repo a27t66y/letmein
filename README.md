@@ -48,10 +48,16 @@ https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip
 
 解压后拖到“应用程序”文件夹，双击运行，全部允许权限。
 
-添加账号图文教程：
+点击configure添加账号信息
 
-https://www.jianshu.com/p/a3b488da13b4
+![image](https://github.com/a27t66y/letmein/raw/master/1.png)
 
-备用图文教程：
+点击transport settings 设置 websocket 和 TLS 参数
 
-https://www.imtrq.com/archives/1600
+![image](https://github.com/a27t66y/letmein/raw/master/2.png)
+
+![image](https://github.com/a27t66y/letmein/raw/master/3.png)
+
+点击 load core 开启代理，选择 Pac Mode, Server 和 Routing Rule
+
+![image](https://github.com/a27t66y/letmein/raw/master/4.png)
