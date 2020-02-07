@@ -1,14 +1,12 @@
 1. iPhone
 
+您必须使用最新版iOS和Shadowrocket
+
 打开Shadowrocket，点击左上角，扫描邮件里的二维码，即可添加账号使用。
 
-没有Shadowrocket请用下面任意美区共享账号免费下载：
+共享账号可免费下载客户端：账号 6tt6@outlook.com 密码 2a3b4c5F
 
-账号game783@outlook.com密码Ff556677
-
-账号sanchuanmg1@163.com密码Gzh:sanchuansc1
-
-账号jixiangios01@protonmail.com密码zAE6NLbd99FmXgVC
+如果失效，请打开微信搜索Shadowrocket 很多公众号分享了美区共享账号，免费下载。
 
 2. Android
 
